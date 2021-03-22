@@ -13,6 +13,8 @@
 .. image:: https://zenodo.org/badge/16974/Lasagne/Lasagne.svg
    :target: https://zenodo.org/badge/latestdoi/16974/Lasagne/Lasagne
 
+This is a forked repository for the second semester of research. None of this code is mine and for more information look to the research repository.
+
 Lasagne
 =======
 
